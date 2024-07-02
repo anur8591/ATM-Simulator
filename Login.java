@@ -1,3 +1,7 @@
+//	This is the first page of ATM simulator project
+//	this is a desktop base application code 
+//	not for any operating system;
+
 package bank_management_system;
 
 import java.awt.Color;
@@ -6,7 +10,6 @@ import java.awt.Image;
 import java.awt.event.*;
 import javax.swing.*;
 import java.sql.*;
-
 
 public class Login extends JFrame implements ActionListener
 {
