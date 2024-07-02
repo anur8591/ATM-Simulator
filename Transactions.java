@@ -1,3 +1,5 @@
+//this is a 6th page of ATM Simulator project
+
 package bank_management_system;
 
 import java.awt.*;
