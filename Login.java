@@ -1,6 +1,6 @@
 //	This is the first page of ATM simulator project
 //	this is a desktop base application code 
-//	not for any operating system; 
+//	not for any operating system;
 
 package bank_management_system;
 
